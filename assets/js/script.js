@@ -4,6 +4,6 @@ function pintar(elemento, color = "green") {
 
 const ele = document.getElementById("ele1");
 
-ele.addEventListener("click", function () {
-    pintar(ele, "yellow");
+ele.addEventListener("click", function(event) {
+    pintar(event.target, "yellow");
 });

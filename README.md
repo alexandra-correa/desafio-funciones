@@ -1,42 +1,21 @@
 # Desafío - Funciones
 
-## Descripción
+Proyecto correspondiente al **Desafío 3 - Funciones** del módulo de JavaScript de Desafío Latam.
 
-Este proyecto corresponde al **Desafío 3 - Funciones** del curso de **JavaScript** de **Desafío Latam**.
+## Contenido
 
-El objetivo es aplicar conceptos fundamentales de funciones en JavaScript, incluyendo:
-
-* Funciones de expresión.
-* Arrow Functions.
-* Manejo de eventos con `addEventListener`.
+* Transformación de funciones a función de expresión.
+* Uso de Arrow Functions.
+* Eventos con `addEventListener`.
 * Manipulación del DOM.
-* Uso de parámetros en funciones.
-* Eventos de teclado (`keydown`).
+* Eventos de teclado.
 * Creación dinámica de elementos HTML.
 
-## Estructura del proyecto
-
-```text
-desafio-funciones/
-│
-├── 1_funcion.js
-├── 2_arrow.js
-├── pintar.html
-├── 4_colores.html
-│
-└── assets/
-    └── js/
-        ├── script.js
-        └── 4_colores.js
-```
-
-## Tecnologías utilizadas
+## Tecnologías
 
 * HTML5
-* JavaScript (ES6)
+* JavaScript
 
 ## Autor
 
-**Alexandra Correa**
-
-GitHub: https://github.com/alexandra-correa
+Alexandra Correa
